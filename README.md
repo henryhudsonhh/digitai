@@ -1,1 +1,1 @@
-# digits
+# Digit Recognising AI
